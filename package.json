@@ -1,0 +1,21 @@
+{
+  "name": "mission-start",
+  "version": "1.0.0",
+  "description": "Milestone 1 – Auditoría del estado actual\r 🧩 ISSUE #1 – Inventario de herramientas del workspace",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo Building project..."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peio03/Mission-Start.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/peio03/Mission-Start/issues"
+  },
+  "homepage": "https://github.com/peio03/Mission-Start#readme"
+}
